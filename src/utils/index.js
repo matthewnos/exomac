@@ -38,7 +38,7 @@ function slideUp(element, duration = 500) {
 		element.style.height = element.offsetHeight + "px";
 		element.style.transitionProperty = `height, margin, padding`;
 		element.style.transitionDuration = duration + "ms";
-		element.offsetHeight;
+		//element.offsetHeight;
 		element.style.overflow = "hidden";
 		element.style.height = 0;
 		element.style.paddingTop = 0;
@@ -75,7 +75,7 @@ function slideDown(element, duration = 500) {
 		element.style.paddingBottom = 0;
 		element.style.marginTop = 0;
 		element.style.marginBottom = 0;
-		element.offsetHeight;
+		//element.offsetHeight;
 		element.style.transitionProperty = `height, margin, padding`;
 		element.style.transitionDuration = duration + "ms";
 		element.style.height = height + "px";
