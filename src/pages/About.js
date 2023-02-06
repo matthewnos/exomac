@@ -18,7 +18,7 @@ import ScrollToTop from '../components/ScrollToTop.jsx';
 const AboutUs = () => {
     return (
         <React.Fragment>
-            <SEO title="Exomac || About" />
+            <SEO title="Cloud Ingenuity || About" />
             <Header />
             <Breadcrumb 
                 image="images/bg/breadcrumb-bg.jpg"

@@ -20,7 +20,7 @@ import ScrollToTop from '../components/ScrollToTop.jsx';
 const HomeTwo = () => {
     return (
         <React.Fragment>
-            <SEO title="Exomac || Home Two" />
+            <SEO title="Cloud Ingenuity || Home Two" />
             <Header />
             <IntroTwo />
             <HomeAboutTwo />

@@ -16,7 +16,7 @@ const WorkDetails = () => {
     const data = WorkData.filter(work => work.id === workId);
     return (
         <React.Fragment>
-            <SEO title="Exomac || Work Details" />
+            <SEO title="Cloud Ingenuity || Work Details" />
             <Header />
             <Breadcrumb 
                 image="images/bg/breadcrumb-bg-two.jpg"

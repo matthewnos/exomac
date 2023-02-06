@@ -21,7 +21,7 @@ const BlogCategories = () => {
     const categoryTitle = data[0].categories[0]
     return (
         <React.Fragment>
-            <SEO title="Exomac || Blog" />
+            <SEO title="Cloud Ingenuity || Blog" />
             <Header />
             <Breadcrumb 
                 image="images/bg/breadcrumb-bg-four.jpg"
