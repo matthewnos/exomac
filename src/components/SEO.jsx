@@ -8,7 +8,7 @@ const SEO = ({title}) => {
             <meta charSet="utf-8" />
             <title>{title}</title>
             <meta name="robots" content="noindex, follow" />
-            <meta name="description" content="Exomac – Corporate Business React JS Template" />
+            <meta name="description" content="Cloud Ingenuity – Corporate Business React JS Template" />
             <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
         </Helmet>
     )
