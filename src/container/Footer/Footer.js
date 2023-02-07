@@ -22,7 +22,7 @@ const Footer = () => {
 
 
                                     <p><Link to={process.env.PUBLIC_URL + "/"}>(+1) 212-946-2701</Link></p>
-                                    <p><Link to={process.env.PUBLIC_URL + "/"}>hello@hasagency.com</Link> </p>
+                                    <p><Link to={process.env.PUBLIC_URL + "/"}>support@cloudingenuity.com</Link> </p>
                                 </div>
                                 <div className="footer-social-inline">
                                     <a href="#"><i className="fab fa-twitter-square"></i></a>
@@ -46,7 +46,7 @@ const Footer = () => {
 
                 <div className="row">
                     <div className="col">
-                        <p className="copyright">&copy; {new Date().getFullYear()} <strong>Exomac</strong> Made with <i className="fas fa-heart text-danger"></i> by <a href="#"><strong>HasThemes</strong></a>.</p>
+                        <p className="copyright">&copy; {new Date().getFullYear()} <strong>Cloud Ingenuity</strong> Made with <i className="fas fa-heart text-danger"></i> by <a href="#"><strong>HasThemes</strong></a>.</p>
                     </div>
                 </div>
 
