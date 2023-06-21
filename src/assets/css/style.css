@@ -28281,7 +28281,7 @@ textarea {
             width: 200px; } }
 
 .about-content-area p {
-  max-width: 420px;
+  max-width: 768px;
   margin-bottom: 0; }
   @media only screen and (min-width: 768px) and (max-width: 991px) {
     .about-content-area p {
