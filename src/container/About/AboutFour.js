@@ -31,43 +31,19 @@ const AboutFour = () => {
 
                     <div className="col-xl-6 col-lg-6 col-12" data-aos="fade-up">
                         <div className="about-content-area mt-0 mb-md-10 mb-10">
-                            <SectionTitleTwo 
-                                subTitle="Web design and digital marketing"
-                                title="I think strategy, UX design, and web development"
-                            />
 
-                            <div className="row row-cols-sm-2 row-cols-auto mb-n6">
-                                <div className="col mb-6">
-                                    <div className="about-funfact">
-                                        <div className="number">
-                                            <VisibilitySensor
-                                                    onChange={onVisibilityChange}
-                                                    offset={{ top: 10 }}
-                                                    delayedCall
-                                                    >
-                                                    <CountUp end={didViewCountUp ? 110 : 0} />
-                                            </VisibilitySensor>+
-                                        </div>
-                                        <h6 className="text">Happy Clients</h6>
-                                        <p>We help our clients increase profits by increasing their visibility online.</p>
-                                    </div>
-                                </div>
-                                <div className="col mb-6">
-                                    <div className="about-funfact">
-                                        <div className="number">
-                                            <VisibilitySensor
-                                                onChange={onVisibilityChange}
-                                                offset={{ top: 10 }}
-                                                delayedCall
-                                                >
-                                                <CountUp end={didViewCountUp ? 130 : 0} />
-                                            </VisibilitySensor>+
-                                        </div>
-                                        <h6 className="text">Completed projects</h6>
-                                        <p>We help our clients increase profits by increasing their visibility online.</p>
-                                    </div>
-                                </div>
-                            </div>
+                        <p>
+                                Customers turn to Cloud Ingenuity as we bring Fortune 100 strategy to the masses to drive business transformation. Our comprehensive services span 5 key tenants: Multi Cloud, Cyber Security, Network Modernization, Collaboration, and Enterprise Visibility. Our team helps customers determine current challenges, and we partner to build a plan for implementing the "best of breed" solutions needed to achieve successful business outcomes. Our greatest thrill is when collaboration with our team leads to measured success within a customer's business. Whether we’ve increased ROI, secured their environment, or improved time to market; our customers find great satisfaction in knowing that Cloud Ingenuity is a partner they can trust. We created this company with the sole focus of 100% customer satisfaction and driving business outcomes.
+                            </p>
+
+                            <p>
+                                Cloud Ingenuity is a solution integrator of technology-based business solutions that span the enterprise, including the data center and lines of business. Built on products and services from the world’s top technology companies, Cloud Ingenuity solutions are installed, configured, and supported by our dedicated teams of highly certified experts. We are in this relationship for the long haul and stay engaged past the purchase order until we drive operationalization and ROI.
+                            </p>
+
+                            <p>
+                                With the right people and the right partners, Cloud Ingenuity is able to focus on solutions to help IT cut costs, increase reliability, ease the burden of management, maximize flexibility, mitigate risk, and improve service. We require our teams to be focused so they can help you get from the high-level architecture of a solution all the way down to the technical configuration and implementation of IT solutions and products.
+                            </p>
+
                         </div>
                     </div>
 
