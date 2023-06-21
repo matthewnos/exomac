@@ -21,7 +21,7 @@ const Footer = () => {
                                 <div className="content">
 
 
-                                    <p><Link to={process.env.PUBLIC_URL + "/"}>(+2) 212-946-2701</Link></p>
+                                    <p><Link to={process.env.PUBLIC_URL + "/"}>(+1) 212-946-2701</Link></p>
                                     <p><Link to={process.env.PUBLIC_URL + "/"}>support@cloudingenuity.com</Link> </p>
                                 </div>
                                 <div className="footer-social-inline">
