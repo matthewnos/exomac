@@ -33,7 +33,7 @@ const AboutFour = () => {
                         <div className="about-content-area mt-0 mb-md-10 mb-10">
                             <SectionTitleTwo 
                                 subTitle="Web design and digital marketing"
-                                title="We think strategy, UX design, and web development"
+                                title="I think strategy, UX design, and web development"
                             />
 
                             <div className="row row-cols-sm-2 row-cols-auto mb-n6">
