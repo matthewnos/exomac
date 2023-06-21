@@ -4,7 +4,7 @@ import Tilt from 'react-parallax-tilt';
 import Parallax from 'parallax-js';
 import CountUp from 'react-countup';
 import VisibilitySensor from "react-visibility-sensor";
-import './main.css'
+import 'src/assets/css/style.css'
 
 const AboutFour = () => {
     const [didViewCountUp, setDidViewCountUp] = useState(false);
