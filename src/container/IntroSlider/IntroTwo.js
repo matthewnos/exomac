@@ -16,8 +16,7 @@ const IntroTwo = () => {
                             <div className="intro-content-two text-center mt-xl-8 mt-lg-8 mt-md-8 mt-sm-8 mt-xs-8">
                                 <h2 className="title">Designing awesome brands & experiences </h2>
                                 <div className="desc">
-                                    <p>We are an agency located in New York. We think strategy, craft design,
-                                        develop digital and create motion. To forward your brand and business.</p>
+                                    <p>IntroTwo.js</p>
                                 </div>
                                 <Link to={process.env.PUBLIC_URL + "/"} className="btn btn-primary btn-hover-secondary">Get Started</Link>
                                 <Link to={process.env.PUBLIC_URL + "/"} className="btn btn-outline-white btn-hover-primary"> Learn More </Link>

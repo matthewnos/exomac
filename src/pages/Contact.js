@@ -15,7 +15,7 @@ const Contact = () => {
             <Header />
             <Breadcrumb 
                 image="images/bg/breadcrumb-bg-five.jpg"
-                title="About Us"
+                title="Contact Us"
                 content="Home"
                 contentTwo="Contact Us"
             />
