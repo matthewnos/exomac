@@ -42,10 +42,10 @@ const AboutFour = () => {
                             <p className="about-paragraph mr-0">
                                 With the right people and the right partners, Cloud Ingenuity is able to focus on solutions to help IT cut costs, increase reliability, ease the burden of management, maximize flexibility, mitigate risk, and improve service. We require our teams to be focused so they can help you get from the high-level architecture of a solution all the way down to the technical configuration and implementation of IT solutions and products.
                             </p>
+                            <p className="about-Large">
+                                WE ENGAGE AND PARTNER WITH YOU UNTIL BUSINESS VALUE IS DELIVERED.
+                            </p>
                         </div>
-                        <p className="about-Large">
-                            WE ENGAGE AND PARTNER WITH YOU UNTIL BUSINESS VALUE IS DELIVERED.
-                        </p>
                     </div>
                     <div className="col-xl-6 col-lg-6 col-12" data-aos="fade-up" data-aos-delay="300">
                         <div className="about-image-area about-shape-animation right-0 me-0">
