@@ -21,8 +21,8 @@ const AboutUs = () => {
             <SEO title="Cloud Ingenuity || About" />
             <Header />
             <Breadcrumb 
-                image="images/bg/breadcrumb-bg.jpg"
-                title="We are an agency located in New York"
+                image="images/bg/breadcrumb-bg-five.jpg"
+                title="About Us"
                 content="Home"
                 contentTwo="About Us"
             />
@@ -38,6 +38,3 @@ const AboutUs = () => {
 }
 
 export default AboutUs;
-
-
-
