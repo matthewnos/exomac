@@ -21,7 +21,7 @@ const AboutUs = () => {
             <SEO title="Cloud Ingenuity || About" />
             <Header />
             <Breadcrumb 
-                image="images/bg/breadcrumb-bg-five.jpg"
+                image="images/bg/breadcrumb-bg.jpg"
                 title="About Us"
                 content="Home"
                 contentTwo="About Us"
