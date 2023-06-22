@@ -28307,6 +28307,12 @@ textarea {
 .about-paragraph {
     font-size: 12px; }
 
+    .about-Large {
+      font-size: 17px;
+      font-weight: bold;
+      color: #000;
+    }
+
 .about-funfact .text {
   font-size: 20px;
   line-height: 1.5;
