@@ -15,7 +15,7 @@ const Contact = () => {
             <Header />
             <Breadcrumb 
                 image="images/bg/breadcrumb-bg-five.jpg"
-                title="We are an agency located in New York"
+                title="About Us"
                 content="Home"
                 contentTwo="Contact Us"
             />
