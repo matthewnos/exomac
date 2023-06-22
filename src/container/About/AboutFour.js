@@ -30,7 +30,7 @@ const AboutFour = () => {
             <div className="container">
                 <div className="row">
 
-                    <div className="col-xl-6 col-lg-6 col-6" data-aos="fade-up">
+                    <div className="col-xl-6 col-lg-6 col-12" data-aos="fade-up">
                         <div className="about-content-area mt-0 mb-md-0 mb-0">
 
                             <p className="about-paragraph mr-0">
@@ -47,8 +47,10 @@ const AboutFour = () => {
 
                         </div>
                     </div>
-
-                    <div className="col-xl-6 col-lg-6 col-6" data-aos="fade-up" data-aos-delay="300">
+                    <p className="about-paragraph mr-0">
+                    WE ENGAGE AND PARTNER WITH YOU UNTIL BUSINESS VALUE IS DELIVERED.
+                            </p>
+                    <div className="col-xl-6 col-lg-6 col-12" data-aos="fade-up" data-aos-delay="300">
                         <div className="about-image-area about-shape-animation right-0 me-0">
                             <div className="about-image js-tilt">
                                 <Tilt scale={scale} transitionSpeed={4000}>
