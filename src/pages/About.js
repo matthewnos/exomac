@@ -29,6 +29,8 @@ const AboutUs = () => {
             <AboutFour />
             <Video />
             <AboutFive />
+            {/* <AboutSix /> */}
+            {/* <AboutSeven /> */}
             <TestimonialContainer classOption="bg-primary-blue" />
             <CallToActionTwo />
             <Footer />
