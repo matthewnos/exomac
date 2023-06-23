@@ -28,36 +28,37 @@ const ServiceSkill = () => {
                         <div className="progressbar-area mt-lg-0 mt-md-50 mt-sm-50 mt-40">
 
                             <SectionTitleTwo 
-                                subTitle="Brand-first creative services"
-                                title="Bringing unique and engaging experiences to your brand"
+                                title="The Cloud Ingenuity app enables facilities to deliver the following:"
+                                subTitle="Optimum Customer Experience"
                             />
 
                             <div className="progress-bar--one">
                                 <div className="progress-charts">
-                                    <h6 className="heading ">UX Design</h6>
+                                    <h6 className="heading ">
+                                        Wayfinding for visitors</h6>
                                     <div className="single-progress">
-                                        <ProgressBar data-aos="fade-right" data-aos-delay="100" data-aos-duration="450" className="gradient-1" now="81" label={<span>81%</span>} />
+                                        <ProgressBar data-aos="fade-right" data-aos-delay="100" data-aos-duration="450" className="gradient-1" now="90" label={<span>90%</span>} />
                                     </div>
                                 </div>
 
-                                <div className="progress-charts ">
-                                    <h6 className="heading ">Marketing</h6>
+                                <div className="progress-charts">
+                                    <h6 className="heading ">A modern, interactive experience</h6>
                                     <div className="single-progress">
-                                        <ProgressBar data-aos="fade-right" data-aos-delay="100" data-aos-duration="450" className="gradient-2" now="72" label={<span>72%</span>} />
+                                        <ProgressBar data-aos="fade-right" data-aos-delay="100" data-aos-duration="450" className="gradient-2" now="82" label={<span>82%</span>} />
                                     </div>
                                 </div>
 
-                                <div className="progress-charts ">
-                                    <h6 className="heading ">Web Design</h6>
+                                <div className="progress-charts">
+                                    <h6 className="heading ">Improved Wi-Fi experience</h6>
                                     <div className="single-progress">
-                                        <ProgressBar data-aos="fade-right" data-aos-delay="100" data-aos-duration="450" className="gradient-3" now="81" label={<span>81%</span>} />
+                                        <ProgressBar data-aos="fade-right" data-aos-delay="100" data-aos-duration="450" className="gradient-3" now="91" label={<span>91%</span>} />
                                     </div>
                                 </div>
 
-                                <div className="progress-charts ">
-                                    <h6 className="heading ">Development</h6>
+                                <div className="progress-charts">
+                                    <h6 className="heading ">Accurate people and asset location</h6>
                                     <div className="single-progress">
-                                        <ProgressBar data-aos="fade-right" data-aos-delay="100" data-aos-duration="450" className="gradient-4" now="81" label={<span>81%</span>} />
+                                        <ProgressBar data-aos="fade-right" data-aos-delay="100" data-aos-duration="450" className="gradient-4" now="85" label={<span>85%</span>} />
                                     </div>
                                 </div>
                             </div>

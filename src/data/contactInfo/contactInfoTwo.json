@@ -2,19 +2,19 @@
     {
     "id": "1",
     "icon": "images/svg/linea/linea-basic-map.svg",
-    "title": "Our Locations",
-    "info": " 110 W 34th St, NYC. / 67 Madison Avenue."
+    "title": "Our Location",
+    "info": " 4100 International Pkwy # 1100, Carrollton, TX, 75007"
     },
     {
     "id": "2",
     "icon": "images/svg/linea/linea-basic-message-txt.svg",
     "title": "Give Us A Call",
-    "info": "(+1) 212-946-2701 / (+1) 212-946-2702"
+    "info": "(+1) 972-402-5522"
     },
     {
     "id": "3",
     "icon": "images/svg/linea/linea-basic-mail-open-text.svg",
-    "title": "Help Desk",
-    "info": "hello@hasthemes.com , sales@hasthemes.com"
+    "title": "Support",
+    "info": "Info@cloudingenuity.com"
     }
 ]

@@ -30,8 +30,8 @@ const ServiceIconBoxTwo = ({ classOption }) => {
             <div style={{ width: '100%' }}>
               <SectionTitle
                 headingOption="fz-32"
-                title="Services that create identities, build brands, and get results"
-                subTitle="Cloud Ingenuity's Application for Location Services"
+                title="Cloud Ingenuity's Application for Location Services"
+                // subTitle="Cloud Ingenuity's Application for Location Services"
               />
               <video controls style={{ width: '100%' }}>
                 <source src="/videos/LocationVideo.mp4" type="video/mp4" />
