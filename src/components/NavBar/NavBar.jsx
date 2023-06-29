@@ -18,7 +18,7 @@ const NavBar = () => {
                     <NavLink to={process.env.PUBLIC_URL + "/about"}><span className="menu-text">About Us</span></NavLink>
                 </li>
                 <li>
-                    <NavLink to={process.env.PUBLIC_URL + "/service"}><span className="menu-text">Services</span></NavLink>
+                    <NavLink to={process.env.PUBLIC_URL + "/service"}><span className="menu-text">Location Services</span></NavLink>
                 </li>
                 <li className="has-children">
                     <NavLink to={process.env.PUBLIC_URL + "/work"}><span className="menu-text">Work</span></NavLink>
@@ -33,7 +33,7 @@ const NavBar = () => {
                     <span className="menu-toggle"><i className="far fa-angle-down"></i></span>
                     <ul className="sub-menu">
                         <li><NavLink to={process.env.PUBLIC_URL + "/blog-grid"}><span className="menu-text">Blog Grid</span></NavLink></li>
-                        <li><NavLink to={process.env.PUBLIC_URL + "/blog-classic"}><span className="menu-text">Blog classic</span></NavLink></li>
+                        <li><NavLink to={process.env.PUBLIC_URL + "/blog-classic"}><span className="menu-text">Industry Solutions</span></NavLink></li>
                         <li><NavLink to={process.env.PUBLIC_URL + `/blog-details/1`}><span className="menu-text">Blog Details</span></NavLink></li>
                     </ul>
                 </li>
