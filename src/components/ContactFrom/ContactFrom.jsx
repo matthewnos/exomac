@@ -5,7 +5,14 @@ const ContactFrom = () => {
     const { register, handleSubmit, formState: { errors } } = useForm({
         mode: "onBlur"
     });
-    const onSubmit = data => console.log(data);
+    const onSubmit = (data) => {
+        // Send the email to Info@cloudingenuity.com
+        const emailAddress = 'info@cloudingenuity.com';
+      
+        // Send the email using the determined email address
+        console.log('Sending message to:', emailAddress);
+        console.log('Form data:', data);
+      };
     return (
         <div className="contact-form" data-aos="fade-up" data-aos-delay="300">
             <form onSubmit={handleSubmit(onSubmit)}>

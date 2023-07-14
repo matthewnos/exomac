@@ -23,8 +23,8 @@ const ContactInformation = ({ classOption }) => {
             <div className="container shape-animate">
                 <SectionTitle
                     titleOption="section-title text-center mb-lg-12 mb-sm-8 mb-xs-8"
-                    title="We are a full-service creative agency"
-                    subTitle="Our team of designers, developers and creatives are perfectionists
+                    title="An award-winning, full-service solutions provider since 2016"
+                    subTitle="Our team of network engineers, developers and project managers are perfectionists
                     who love what they do and love where they work"
                 />
 

@@ -1,81 +1,88 @@
 [
     {
         "id": 1,
-        "image": "images/blog/370/blog-1.jpg",
-        "largeImage": "images/blog/770/blog-2.jpg",
+        "image": "images/blog/370/gov.jpeg",
+        "largeImage": "images/blog/370/gov.jpeg",
         "author": "Written by Admin",
         "date": "10 Oct 2020",
         "view": "70 views",
-        "categories": ["Marketing", "UX Design"],
-        "title": "How your sales can work together in account-based marketing",
-        "excerpt": "We have always known the power of digital, and we've mastered the strategy, tactics, and technology to harness it. Now, other departments have had to embrace the digital transformation that businesses have been talking about for so long.",
-        "body":  ["<p><strong>We have always known the power of digital, and we have mastered the strategy, tactics, and technology to harness it. Now, other departments have had to embrace the digital transformation that busine- sses have been talking about for so long, and those colleagues are turning to us in Marketing to provide guidance.</strong></p>", "<p>Even if it is a brave new world for everyone else, for marketers it is another day in the proverbial office.</p>", "<p>Now, the digital evolution is resonating across organizations. The pandemic has shifted internal structures and changed relationships with customers, and as a result marketers have become more valuable than ever.</p>", "<p><strong>The Shift Inside Organizations: Marketers Become Indispensable in a Digital World.</strong></p>", "<p>Marketing has often been known as the department that makes PowerPoints and polishes websites. That was not ever close to the whole truth, of course, but past company structures — in which Marketing always played second fiddle to Sales — allowed that falsehood to persist.</p>", "<p>The pandemic has transformed what the marketing team means to an organization: It is given us agency. It is upended the customer journey. It is redefined how sales and marketing teams should interact. And it is forced businesses to see the value that marketers provide in a digital world.</p>"],
-        "tags": ["App", "Branding", "Development", "Design"]
+        "categories": ["State & Local Government"],
+        "title": "How Cloud Ingenuity serves state and local governments",
+        "excerpt": "Cloud Ingenuity offers the latest information technology products and services to state and local government agencies...",
+        "body":  ["<p><strong>Products from Dell, Palo Alto, Juniper, Nutanix, ExtraHop, etc. are available under our various contracts.</strong></p>",
+                "<p>Cloud Ingenuity is a HUB vendor on State of Texas DIR, and we are on the TIPS contract as well providing contract flexibility to our customers. Our experience successfully working with Texas state agencies sets us apart, and enables you to have a partner that will ensure the ROI of your investments while improving the productivity of your team.</p>"],
+        "tags": ["Government", "State", "Municipal", "Local"]
     },
     {
         "id": 2,
-        "image": "images/blog/370/blog-2.jpg",
-        "largeImage": "images/blog/770/blog-1.jpg",
+        "image": "images/blog/370/edu.png",
+        "largeImage": "images/blog/370/edu.png",
         "author": "Written by Admin",
         "date": "10 Oct 2020",
         "view": "70 views",
-        "categories": ["App", "Startup"],
-        "title": "The six things marketers need to understand about DTC marketing",
-        "excerpt": "Beautiful and usable design can be the deciding factor between a successful and a failing business. Great designers are treated like superstars. And it’s so fulfilling to design beautiful things that people love to use.",
-        "body":  ["<p><strong>We have always known the power of digital, and we have mastered the strategy, tactics, and technology to harness it. Now, other departments have had to embrace the digital transformation that busine- sses have been talking about for so long, and those colleagues are turning to us in Marketing to provide guidance.</strong></p>", "<p>Even if it is a brave new world for everyone else, for marketers it is another day in the proverbial office.</p>", "<p>Now, the digital evolution is resonating across organizations. The pandemic has shifted internal structures and changed relationships with customers, and as a result marketers have become more valuable than ever.</p>", "<p><strong>The Shift Inside Organizations: Marketers Become Indispensable in a Digital World.</strong></p>", "<p>Marketing has often been known as the department that makes PowerPoints and polishes websites. That was not ever close to the whole truth, of course, but past company structures — in which Marketing always played second fiddle to Sales — allowed that falsehood to persist.</p>", "<p>The pandemic has transformed what the marketing team means to an organization: It is given us agency. It is upended the customer journey. It is redefined how sales and marketing teams should interact. And it is forced businesses to see the value that marketers provide in a digital world.</p>"],
-        "tags": ["App", "Branding", "Development", "Design"]
+        "categories": ["Higher Education"],
+        "title": "Universities and Cloud Ingenuity",
+        "excerpt": "Universities are the largest growing segment in Cloud Ingenuity's customer base. Challenged with a highly competitive market for attracting students, and with the technology demands of today's students; it is no wonder we are staying busy helping Universities modernization their infrastructure, improve their collaboration, and ensure the success of their systems (ex: class enrollment)...",
+        "body":  ["<p><strong>Universities are the largest growing segment in Cloud Ingenuity's customer base. Challenged with a highly competitive market for attracting students, and with the technology demands of today's students; it is no wonder we are staying busy helping Universities modernization their infrastructure, improve their collaboration, and ensure the success of their systems (ex: class enrollment).</strong></p>",
+                "<p>Universities have very large networks, and in many cases bigger challenges than some Enterprises. Cloud Ingenuity is a Texas DIR HUB vendor and on the TIPS contract as well.</p>",
+                "<p><strong>We have many successful University clients, and the list continues to grow as we understand the unique challenges they face.</strong></p>"
+            ],
+        "tags": ["Higher Education", "Education"]
     },
     {
         "id": 3,
-        "image": "images/blog/370/blog-3.jpg",
-        "largeImage": "images/blog/770/blog-3.jpg",
+        "image": "images/blog/370/k12.png",
+        "largeImage": "images/blog/370/k12.png",
         "author": "Written by Admin",
         "date": "10 Oct 2020",
         "view": "70 views",
-        "categories": ["UX Design", "Marketing"],
-        "title": "Eleven top tips for developing agile marketing",
-        "excerpt": "Beautiful and usable design can be the deciding factor between a successful and a failing business. Great designers are treated like superstars. And it’s so fulfilling to design beautiful things that people love to use.",
-        "body":  ["<p><strong>We have always known the power of digital, and we have mastered the strategy, tactics, and technology to harness it. Now, other departments have had to embrace the digital transformation that busine- sses have been talking about for so long, and those colleagues are turning to us in Marketing to provide guidance.</strong></p>", "<p>Even if it is a brave new world for everyone else, for marketers it is another day in the proverbial office.</p>", "<p>Now, the digital evolution is resonating across organizations. The pandemic has shifted internal structures and changed relationships with customers, and as a result marketers have become more valuable than ever.</p>", "<p><strong>The Shift Inside Organizations: Marketers Become Indispensable in a Digital World.</strong></p>", "<p>Marketing has often been known as the department that makes PowerPoints and polishes websites. That was not ever close to the whole truth, of course, but past company structures — in which Marketing always played second fiddle to Sales — allowed that falsehood to persist.</p>", "<p>The pandemic has transformed what the marketing team means to an organization: It is given us agency. It is upended the customer journey. It is redefined how sales and marketing teams should interact. And it is forced businesses to see the value that marketers provide in a digital world.</p>"],
-        "tags": ["App", "Branding", "Development", "Design"]
+        "categories": ["K - 12"],
+        "title": "K-12 Organizations and Cloud Ingenuity",
+        "excerpt": "K-12 organizations have massive networks with lots of students and teachers to support, and they tend to be under served in the technology space...",
+        "body":  ["<p><strong>K-12 organizations have massive networks with lots of students and teachers to support, and they tend to be under served in the technology space.</strong></p>",
+                "<p>Cloud Ingenuity intends to change that. We work with School Districts and we sponsor several K-12 IT Leadership Conferences as we are committed to providing K-12 with the resources that Fortune 500 companies have at their disposal.</p>",
+                "<p><strong>Cloud Ingenuity has the expertise, strategy, and resources to enable this for K-12. We are motivated to ensure that our kids are protected and enabled with technology to ensure a bright future!</strong></p>"
+            ],
+        "tags": ["Education", "K - 12"]
     },
     {
         "id": 4,
-        "image": "images/blog/370/blog-4.jpg",
-        "largeImage": "images/blog/770/blog-3.jpg",
+        "image": "images/blog/370/ent.png",
+        "largeImage": "images/blog/370/ent.png",
         "author": "Written by Admin",
         "date": "10 Oct 2020",
         "view": "70 views",
-        "categories": ["Startup", "UX Design", "Marketing"],
-        "title": "How your sales can work together in account-based marketing",
-        "excerpt": "Beautiful and usable design can be the deciding factor between a successful and a failing business. Great designers are treated like superstars. And it’s so fulfilling to design beautiful things that people love to use.",
-        "body":  ["<p><strong>We have always known the power of digital, and we have mastered the strategy, tactics, and technology to harness it. Now, other departments have had to embrace the digital transformation that busine- sses have been talking about for so long, and those colleagues are turning to us in Marketing to provide guidance.</strong></p>", "<p>Even if it is a brave new world for everyone else, for marketers it is another day in the proverbial office.</p>", "<p>Now, the digital evolution is resonating across organizations. The pandemic has shifted internal structures and changed relationships with customers, and as a result marketers have become more valuable than ever.</p>", "<p><strong>The Shift Inside Organizations: Marketers Become Indispensable in a Digital World.</strong></p>", "<p>Marketing has often been known as the department that makes PowerPoints and polishes websites. That was not ever close to the whole truth, of course, but past company structures — in which Marketing always played second fiddle to Sales — allowed that falsehood to persist.</p>", "<p>The pandemic has transformed what the marketing team means to an organization: It is given us agency. It is upended the customer journey. It is redefined how sales and marketing teams should interact. And it is forced businesses to see the value that marketers provide in a digital world.</p>"],
-        "tags": ["App", "Branding", "Development", "Design"]
+        "categories": ["Enterprise Solutions"],
+        "title": "How Cloud Ingenuity Accelerates Enterprises through Technology",
+        "excerpt": "Cloud Ingenuity provides value to Enterprise customers working on transformational projects in Multi Cloud, Cyber Security, Network Modernization, Collaboration and Enterprise Visibility...",
+        "body":  ["<p><strong>Cloud Ingenuity provides value to Enterprise customers working on transformational projects in Multi Cloud, Cyber Security, Network Modernization, Collaboration and Enterprise Visibility.</strong></p>",
+             "<p>Cloud Ingenuity's team has worked with, and worked for, some of the largest Fortune companies gaining the experience required to deliver solutions to the Enterprise Market.</p>",
+             "<p><strong>We have experience with Airlines, Retail, Oil and Gas, Banking, and many more.</strong></p>",
+             "<p>Cloud Ingenuity also partners with technology vendors you have vast experience in the Enterprise space, so the combined team will help to deliver successful business outcomes!</p>"],
+        "tags": ["Solutions", "Enterprise", "Enterprise Solutions"]
     },
     {
-        "id": 5,
-        "image": "images/blog/370/blog-5.jpg",
-        "largeImage": "images/blog/770/blog-3.jpg",
-        "author": "Written by Admin",
-        "date": "10 Oct 2020",
-        "view": "70 views",
-        "categories": ["Startup", "Marketing"],
-        "title": "The six things marketers need to understand about DTC marketing",
-        "excerpt": "Beautiful and usable design can be the deciding factor between a successful and a failing business. Great designers are treated like superstars. And it’s so fulfilling to design beautiful things that people love to use.",
-        "body":  ["<p><strong>We have always known the power of digital, and we have mastered the strategy, tactics, and technology to harness it. Now, other departments have had to embrace the digital transformation that busine- sses have been talking about for so long, and those colleagues are turning to us in Marketing to provide guidance.</strong></p>", "<p>Even if it is a brave new world for everyone else, for marketers it is another day in the proverbial office.</p>", "<p>Now, the digital evolution is resonating across organizations. The pandemic has shifted internal structures and changed relationships with customers, and as a result marketers have become more valuable than ever.</p>", "<p><strong>The Shift Inside Organizations: Marketers Become Indispensable in a Digital World.</strong></p>", "<p>Marketing has often been known as the department that makes PowerPoints and polishes websites. That was not ever close to the whole truth, of course, but past company structures — in which Marketing always played second fiddle to Sales — allowed that falsehood to persist.</p>", "<p>The pandemic has transformed what the marketing team means to an organization: It is given us agency. It is upended the customer journey. It is redefined how sales and marketing teams should interact. And it is forced businesses to see the value that marketers provide in a digital world.</p>"],
-        "tags": ["App", "Branding", "Development", "Design"]
-    },
-    {
-        "id": 6,
-        "image": "images/blog/370/blog-6.jpg",
-        "largeImage": "images/blog/770/blog-3.jpg",
-        "author": "Written by Admin",
-        "date": "10 Oct 2020",
-        "view": "70 views",
-        "categories": ["Startup", "UX Design"],
-        "title": "Eleven top tips for developing agile marketing",
-        "excerpt": "Beautiful and usable design can be the deciding factor between a successful and a failing business. Great designers are treated like superstars. And it’s so fulfilling to design beautiful things that people love to use.",
-        "body":  ["<p><strong>We have always known the power of digital, and we have mastered the strategy, tactics, and technology to harness it. Now, other departments have had to embrace the digital transformation that busine- sses have been talking about for so long, and those colleagues are turning to us in Marketing to provide guidance.</strong></p>", "<p>Even if it is a brave new world for everyone else, for marketers it is another day in the proverbial office.</p>", "<p>Now, the digital evolution is resonating across organizations. The pandemic has shifted internal structures and changed relationships with customers, and as a result marketers have become more valuable than ever.</p>", "<p><strong>The Shift Inside Organizations: Marketers Become Indispensable in a Digital World.</strong></p>", "<p>Marketing has often been known as the department that makes PowerPoints and polishes websites. That was not ever close to the whole truth, of course, but past company structures — in which Marketing always played second fiddle to Sales — allowed that falsehood to persist.</p>", "<p>The pandemic has transformed what the marketing team means to an organization: It is given us agency. It is upended the customer journey. It is redefined how sales and marketing teams should interact. And it is forced businesses to see the value that marketers provide in a digital world.</p>"],
-        "tags": ["App", "Branding", "Development", "Design"]
+        
+            "id": 5,
+            "image": "images/blog/370/health.jpeg",
+            "largeImage": "images/blog/370/health.jpeg",
+            "author": "Written by Admin",
+            "date": "10 Oct 2020",
+            "view": "70 views",
+            "categories": ["Healthcare"],
+            "title": "Technology can Save Lives",
+            "excerpt": "The healthcare industry faces numerous IT challenges that require attention and effective solutions. Enabling doctors to access patient information during treatment, securing patient data and complying with regulations...",
+            "body": [
+              "<p><strong>The healthcare industry faces numerous IT challenges that require attention and effective solutions.</strong></p>",
+              "<p>Enabling doctors to access patient information during treatment, securing patient data and complying with regulations like HIPAA, providing technology for remote patient care, enhancing visibility to locate critical biomedical devices, and enabling doctors with a highly available solution for critical applications are just a few examples.</p>",
+              "<p>These challenges are complex, and the health of patients and regulatory compliance are at stake. In such complex networks and applications, no IT team can go it alone.</p>",
+              "<p><strong>Cloud Ingenuity is here to help. We bring the best technology and expertise to ensure healthcare institutions can focus on patient care without worrying about their infrastructure or the health of their applications.</strong></p>",
+              "<p>With our assistance, healthcare organizations can implement robust IT systems, enhance data security, enable remote patient care, streamline equipment tracking, and ensure the availability of critical applications. By partnering with Cloud Ingenuity, healthcare professionals can dedicate their time and attention to providing exceptional patient care while leaving their IT challenges in capable hands.</p>",
+              "<img src='/images/blog/370/poly.jpeg' alt='Health Image' className='img-fluid' />"
+            ],
+            "tags": ["Healthcare"]
+          
+          
     }
 
 ]

@@ -16,47 +16,47 @@ const CallToActionTwo = () => {
 
                 <div className="shape shape-1">
                     <span>
-                        <img src={process.env.PUBLIC_URL + "images/icon-animation/icon-1.png"} alt="" />
+                        <img src={process.env.PUBLIC_URL + "images/icon-animation/juniper-logo.png"} alt="" />
                     </span>
                 </div>
                 <div className="shape shape-2">
                     <span>
-                        <img src={process.env.PUBLIC_URL + "images/icon-animation/icon-2.png"} alt="" />
+                        <img src={process.env.PUBLIC_URL + "images/icon-animation/palo-logo.png"} alt="" />
                     </span>
                 </div>
                 <div className="shape shape-3">
                     <span>
-                        <img src={process.env.PUBLIC_URL + "images/icon-animation/icon-3.png"} alt="" />
+                        <img src={process.env.PUBLIC_URL + "images/icon-animation/poly-logo.png"} alt="" />
                     </span>
                 </div>
                 <div className="shape shape-4">
                     <span>
-                        <img src={process.env.PUBLIC_URL + "images/icon-animation/icon-4.png"} alt="" />
+                        <img src={process.env.PUBLIC_URL + "images/icon-animation/verkada-logo.png"} alt="" />
                     </span>
                 </div>
                 <div className="shape shape-5">
                     <span>
-                        <img src={process.env.PUBLIC_URL + "images/icon-animation/icon-5.png"} alt="" />
+                        <img src={process.env.PUBLIC_URL + "images/icon-animation/IGEL-logo.png"} alt="" />
                     </span>
                 </div>
                 <div className="shape shape-6">
                     <span>
-                        <img src={process.env.PUBLIC_URL + "images/icon-animation/icon-6.png"} alt="" />
+                        <img src={process.env.PUBLIC_URL + "images/icon-animation/poly-logo.png"} alt="" />
                     </span>
                 </div>
                 <div className="shape shape-7">
                     <span>
-                        <img src={process.env.PUBLIC_URL + "images/icon-animation/icon-7.png"} alt="" />
+                        <img src={process.env.PUBLIC_URL + "images/icon-animation/verkada-logo.png"} alt="" />
                     </span>
                 </div>
                 <div className="shape shape-8">
                     <span>
-                        <img src={process.env.PUBLIC_URL + "images/icon-animation/icon-8.png"} alt="" />
+                        <img src={process.env.PUBLIC_URL + "images/icon-animation/juniper-logo.png"} alt="" />
                     </span>
                 </div>
                 <div className="shape shape-9">
                     <span>
-                        <img src={process.env.PUBLIC_URL + "images/icon-animation/icon-9.png"} alt="" />
+                        <img src={process.env.PUBLIC_URL + "images/icon-animation/IGEL-logo.png"} alt="" />
                     </span>
                 </div>
             </div>

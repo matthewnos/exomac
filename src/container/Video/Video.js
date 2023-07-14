@@ -26,7 +26,7 @@ const Video = () => {
                 </div>
                 <SectionTitle
                     titleOption="color-light text-center"
-                    title="A full-service creative agency since 2007"
+                    title="An award-winning, full-service solutions provider since 2016"
                 />
 
                 <button className="play-btn icon video-popup" onClick={()=> setOpen(true)}><i className="fas fa-play"></i></button>
@@ -35,9 +35,9 @@ const Video = () => {
             </div>
 
             <div className="shape shape-1" id="scene" ref={sceneEl}>
-                <span data-depth="1">
+                {/* <span data-depth="1">
                     <img src={process.env.PUBLIC_URL + "images/shape-animation/newsletter-shape.png"} alt="" />
-                </span>
+                </span> */}
             </div>
 
         </div>
